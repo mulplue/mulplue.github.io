@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm an incoming PhD student at OpenRobotLab@[Shanghai AI Lab](https://www.shlab.org.cn/) & CS@Zhejiang University, supervised by [Jiangmiao Pang](https://oceanpang.github.io/), [Dahua Lin](http://dahua.site/) and [Xiaowei Zhou](https://www.xzhou.me/). Previously, I got my bachelor's degree from [College of Control Science and Engineering](http://cse.zju.edu.cn/) and [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)(Advanced Honor Class of Engineering Education) at Zhejiang University in 2024.
+Hi! I'm an incoming PhD student at OpenRobotLab@[Shanghai AI Lab](https://www.shlab.org.cn/)((through joint-training program with CS@ZJU)), advised by [Jiangmiao Pang](https://oceanpang.github.io/), [Dahua Lin](http://dahua.site/) and [Xiaowei Zhou](https://www.xzhou.me/). Previously, I got my bachelor's degree from [College of Control Science and Engineering](http://cse.zju.edu.cn/) and [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)(Advanced Honor Class of Engineering Education) at Zhejiang University in 2024.
 
 My research interests include Embodied AI, Robot Learning and Computer Vision. Feel free to reach out to me :)
 
@@ -48,8 +48,8 @@ My research interests include Embodied AI, Robot Learning and Computer Vision. F
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/teaser/mgf.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction](https://arxiv.org/abs/2402.12238)
-**Jiahe Chen**$\ast$, Jinkun Cao$\ast$, Dahua Lin, Kris Kitani, Jiangmiao Pang$\dagger$
+[MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction](https://arxiv.org/abs/2402.12238) \\
+**Jiahe Chen**$\ast$, Jinkun Cao$\ast$, Dahua Lin, Kris Kitani, Jiangmiao Pang$\dagger$ \\
 [**Github**](https://github.com/mulplue/MGF) 
 - We proposed MGF for improving the diversity of trajectory prediction, which achieves SOTA performance in the evaluation of both accuracy and diversity.
 </div>
