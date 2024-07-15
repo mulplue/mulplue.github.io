@@ -26,10 +26,11 @@ My research interests include Embodied AI, Robot Learning and Computer Vision. F
 
 <!-- # 🔥 News -->
 # Recent News
-- [24/07]: &nbsp;🎉🎉 [GRUtopia](https://github.com/OpenRobotLab/GRUtopia) released!
+- [24.07]: &nbsp;🎉🎉 [GRUtopia](https://github.com/OpenRobotLab/GRUtopia) released!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+<!-- # 📝 Publications  -->
+# Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,12 +45,12 @@ My research interests include Embodied AI, Robot Learning and Computer Vision. F
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/mgf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/teaser/mgf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction](https://arxiv.org/abs/2402.12238)
 
-**Jiahe Chen**\ast, Jinkun Cao\ast, Dahua Lin, Kris Kitani, Jiangmiao Pang\dagger
+**Jiahe Chen**$\ast$, Jinkun Cao$\ast$, Dahua Lin, Kris Kitani, Jiangmiao Pang$\dagger$
 
 [**Github**](https://github.com/mulplue/MGF) 
 </div>
