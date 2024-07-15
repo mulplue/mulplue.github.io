@@ -19,14 +19,14 @@ redirect_from:
 
 Hi! I'm an incoming PhD student at OpenRobotLab@[Shanghai AI Lab](https://www.shlab.org.cn/) & CS@Zhejiang University, supervised by [Jiangmiao Pang](https://oceanpang.github.io/), [Dahua Lin](http://dahua.site/) and [Xiaowei Zhou](https://www.xzhou.me/). Previously, I got my bachelor's degree from [College of Control Science and Engineering](http://cse.zju.edu.cn/) and [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)(Advanced Honor Class of Engineering Education) at Zhejiang University in 2024.
 
-My research interests include Embodied AI, Robot Learning and Computer Vision. 
+My research interests include Embodied AI, Robot Learning and Computer Vision. Feel free to reach out to me :)
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 <!-- # 🔥 News -->
 # Recent News
-- \[24.07\]: &nbsp;🎉🎉 [GRUtopia](https://github.com/OpenRobotLab/GRUtopia) released!
+- \[24.07\]: &nbsp;We released [GRUtopia](https://github.com/OpenRobotLab/GRUtopia)(aka. 桃源 in Chinese), the first simulated interactive 3D society designed for various robots.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 📝 Publications  -->
@@ -45,7 +45,8 @@ My research interests include Embodied AI, Robot Learning and Computer Vision.
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/teaser/mgf.jpg' alt="sym" width="30%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/teaser/mgf.jpg' alt="sym" width="10
+0%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction](https://arxiv.org/abs/2402.12238)
