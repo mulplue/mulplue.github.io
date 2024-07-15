@@ -45,15 +45,13 @@ My research interests include Embodied AI, Robot Learning and Computer Vision. F
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/teaser/mgf.jpg' alt="sym" width="10
-0%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/teaser/mgf.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction](https://arxiv.org/abs/2402.12238)
-
 **Jiahe Chen**$\ast$, Jinkun Cao$\ast$, Dahua Lin, Kris Kitani, Jiangmiao Pang$\dagger$
-
 [**Github**](https://github.com/mulplue/MGF) 
+- We proposed MGF for improving the diversity of trajectory prediction, which achieves SOTA performance in the evaluation of both accuracy and diversity.
 </div>
 </div>
 
