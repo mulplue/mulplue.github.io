@@ -51,7 +51,7 @@ My research interests include Embodied AI, Robot Learning and Computer Vision. F
 [GRUtopia: Dream General Robots in a City at Scale](https://arxiv.org/abs/2407.10943) \\
 Hanqing Wang$\ast$, **Jiahe Chen**$\ast$, Wensi Huang$\ast$, Qingwei Ben$\ast$, Tai Wang$\ast$, Boyu Mi$\ast$, Tao Huang, Siheng Zhao, Yilun Chen, Sizhe Yang, Peizhou Cao, Wenye Yu, Zichao Ye, Jialun Li, Junfeng Long, Zirui Wang, Huiling Wang, Ying Zhao, Zhongying Tu, Yu Qiao, Dahua Lin, Jiangmiao Pang$\dagger$ \\
 [**Github**](https://github.com/OpenRobotLab/GRUtopia) | ![](https://img.shields.io/github/stars/OpenRobotLab/GRUtopia)
-- We proposed GRUtopia, the first simulated interactive 3D society designed for various robots. It features (a)GRScenes, a dataset includes 100k interactive and finely annotated scenes. (b) GRResidents, a LLM driven NPC system. (c) GRBench, a benchmark supports various robots and poses moderately challenging tasks.
+- We proposed GRUtopia, the first simulated interactive 3D society designed for various robots. It features (a)GRScenes, a dataset with 100k interactive and finely annotated scenes. (b) GRResidents, a LLM driven NPC system. (c) GRBench, a benchmark posing moderately challenging tasks.
 </div>
 </div>
 
