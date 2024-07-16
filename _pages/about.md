@@ -59,7 +59,7 @@ Hanqing Wang$\ast$, **Jiahe Chen**$\ast$, Wensi Huang$\ast$, Qingwei Ben$\ast$, 
 <div class='paper-box-text' markdown="1">
 [MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction](https://arxiv.org/abs/2402.12238) \\
 **Jiahe Chen**$\ast$, Jinkun Cao$\ast$, Dahua Lin, Kris Kitani, Jiangmiao Pang$\dagger$ \\
-[**Github**](https://github.com/mulplue/MGF) | ![](https://img.shields.io/github/stars/mulplue/MGF)
+[**Github**](https://github.com/mulplue/MGF) | ![](https://img.shields.io/github/stars/mulplue/MGF) Code coming soon...(to be organized)
 - We proposed MGF for improving the diversity of trajectory prediction, which achieves SOTA performance in the evaluation of both accuracy and diversity.
 </div>
 </div>
