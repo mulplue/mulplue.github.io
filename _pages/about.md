@@ -45,13 +45,22 @@ My research interests include Embodied AI, Robot Learning and Computer Vision. F
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/teaser/mgf.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[GRUtopia: Dream General Robots in a City at Scale](https://arxiv.org/abs/2407.10943) \\
+Hanqing Wang$\ast$, **Jiahe Chen**$\ast$, Wensi Huang$\ast$, Qingwei Ben$\ast$, Tai Wang$\ast$, Boyu Mi$\ast$, Tao Huang, Siheng Zhao, Yilun Chen, Sizhe Yang, Peizhou Cao, Wenye Yu, Zichao Ye, Jialun Li, Junfeng Long, Zirui Wang, Huiling Wang, Ying Zhao, Zhongying Tu, Yu Qiao, Dahua Lin, Jiangmiao Pang$\dagger$ \\
+[**Github**](https://github.com/OpenRobotLab/GRUtopia) | [](https://img.shields.io/github/stars/OpenRobotLab/GRUtopia)
+- We proposed MGF for improving the diversity of trajectory prediction, which achieves SOTA performance in the evaluation of both accuracy and diversity.
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/teaser/mgf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction](https://arxiv.org/abs/2402.12238) \\
 **Jiahe Chen**$\ast$, Jinkun Cao$\ast$, Dahua Lin, Kris Kitani, Jiangmiao Pang$\dagger$ \\
-[**Github**](https://github.com/mulplue/MGF) | Code to be organized 🧑‍💻
-- We proposed MGF for improving the diversity of trajectory prediction, which achieves SOTA performance in the evaluation of both accuracy and diversity.
+[**Github**](https://github.com/mulplue/MGF) | [](https://img.shields.io/github/stars/mulplue/MGF)
+- We proposed GRUtopia, the first simulated interactive 3D society designed for various robots. It features (a)GRScenes, a dataset includes 100k interactive and finely annotated scenes. (b) GRResidents, a LLM driven NPC system. (c) GRBench, a benchmark supports various robots and poses moderately challenging tasks.
 </div>
 </div>
 
