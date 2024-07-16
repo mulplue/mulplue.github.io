@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm an incoming PhD student at OpenRobotLab@[Shanghai AI Lab](https://www.shlab.org.cn/)(through joint-training program with CS@ZJU), advised by [Jiangmiao Pang](https://oceanpang.github.io/), [Dahua Lin](http://dahua.site/) and [Xiaowei Zhou](https://www.xzhou.me/). Prior to this, I got my bachelor's degree from [College of Control Science and Engineering](http://cse.zju.edu.cn/) and [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)(Advanced Honor Class of Engineering Education) at Zhejiang University in 2024.
+Hi! I'm an incoming PhD student at OpenRobotLab@[Shanghai AI Lab](https://www.shlab.org.cn/)(through joint-training program with CS@ZJU), advised by [Jiangmiao Pang](https://oceanpang.github.io/), [Dahua Lin](http://dahua.site/) and [Xiaowei Zhou](https://www.xzhou.me/). Prior to this, I got my bachelor's degree from [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm) and [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)(Advanced Honor Class of Engineering Education) at Zhejiang University in 2024.
 
 My research interests include Embodied AI, Robot Learning and Computer Vision. Feel free to reach out to me :)
 
@@ -26,7 +26,7 @@ My research interests include Embodied AI, Robot Learning and Computer Vision. F
 
 <!-- # 🔥 News -->
 # Recent News
-- \[24.07\]: &nbsp;We released [GRUtopia](https://github.com/OpenRobotLab/GRUtopia)(aka. 桃源 in Chinese), the first simulated interactive 3D society designed for various robots.
+- *2024.07*: &nbsp;We released [GRUtopia](https://github.com/OpenRobotLab/GRUtopia)(aka. 桃源 in Chinese), the first simulated interactive 3D society designed for various robots.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 📝 Publications  -->
@@ -79,6 +79,11 @@ Hanqing Wang$\ast$, **Jiahe Chen**$\ast$, Wensi Huang$\ast$, Qingwei Ben$\ast$, 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<!-- # 💻 Internships -->
+# Internships
+- *2023.02 - 2024.07*, [Shanghai AI Lab](https://www.shlab.org.cn/), advised by [Jiangmiao Pang](https://oceanpang.github.io/).
+- *2022.09 - 2023.06*, [CSE@ZJU](http://www.cse.zju.edu.cn/cseenglish/main.htm), advised by [Qingyuan Ren](https://person.zju.edu.cn/en/0008668).
+- *2022.05 - 2022.11*, [CS@W&M](https://www.wm.edu/as/computerscience/), advised by [Huajie Shao](https://shj1987.github.io/).
+- *2021.04 - 2021.10*, [Supcon](https://global.supcon.com/), advised by [Wenjun Huang](https://person.zju.edu.cn/en/huangwj).
