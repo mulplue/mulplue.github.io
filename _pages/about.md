@@ -3,6 +3,8 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+analytics: true
+google_site_verification: true
 redirect_from: 
   - /about/
   - /about.html
