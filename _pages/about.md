@@ -72,10 +72,6 @@ Hanqing Wang$\ast$, **Jiahe Chen**$\ast$, Wensi Huang$\ast$, Qingwei Ben$\ast$, 
 - Zhejiang Government Scholarship.
 - Zhejiang University 1st Class Scholarships.
 
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
@@ -87,3 +83,7 @@ Hanqing Wang$\ast$, **Jiahe Chen**$\ast$, Wensi Huang$\ast$, Qingwei Ben$\ast$, 
 - *2022.09 - 2023.06*, [CSE@ZJU](http://www.cse.zju.edu.cn/cseenglish/main.htm), advised by [Qingyuan Ren](https://person.zju.edu.cn/en/0008668).
 - *2022.05 - 2022.11*, [CS@W&M](https://www.wm.edu/as/computerscience/), advised by [Huajie Shao](https://shj1987.github.io/).
 - *2021.04 - 2021.10*, [Supcon](https://global.supcon.com/), advised by [Wenjun Huang](https://person.zju.edu.cn/en/huangwj).
+
+<!-- # Educations
+- *2024.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.06*, Undergraduate (in honor), College of Control Science and Engineering & C -->
