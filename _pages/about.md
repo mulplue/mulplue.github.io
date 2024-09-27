@@ -19,15 +19,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm an incoming PhD student at OpenRobotLab@[Shanghai AI Lab](https://www.shlab.org.cn/)(through joint-training program with CS@ZJU), advised by [Jiangmiao Pang](https://oceanpang.github.io/), [Dahua Lin](http://dahua.site/) and [Xiaowei Zhou](https://www.xzhou.me/). Prior to this, I got my bachelor's degree from [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm) and [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)(Advanced Honor Class of Engineering Education) at Zhejiang University in 2024.
+Hi! I'm a first-year PhD student at OpenRobotLab@[Shanghai AI Lab](https://www.shlab.org.cn/)(through joint-training program with CS@ZJU), advised by [Jiangmiao Pang](https://oceanpang.github.io/) and [Dahua Lin](http://dahua.site/), co-advised by [Xiaowei Zhou](https://www.xzhou.me/). Prior to this, I got my bachelor's degree from [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm) and [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)(Advanced Honor Class of Engineering Education) at Zhejiang University in 2024.
 
-My research interests include Embodied AI, Robot Learning and Computer Vision. Feel free to reach out to me :)
+My research interests include Embodied AI, Robot Learning and Computer Vision, currently I'm working on humanoid robot motion generation. Feel free to reach out to me :)
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 <!-- # 🔥 News -->
 # Recent News
+- *2024.09*: &nbsp;[MGF](https://github.com/mulplue/MGF) is accepted by Neurips 2024🎉 Many thanks to Jinkun and Jiangmiao!
 - *2024.07*: &nbsp;We released [GRUtopia](https://github.com/OpenRobotLab/GRUtopia)(aka. 桃源 in Chinese), the first simulated interactive 3D society designed for various robots.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
