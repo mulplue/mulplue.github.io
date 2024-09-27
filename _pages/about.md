@@ -28,7 +28,7 @@ My research interests include Embodied AI, Robot Learning and Computer Vision, c
 
 <!-- # 🔥 News -->
 # Recent News
-- *2024.09*: &nbsp;[MGF](https://github.com/mulplue/MGF) is accepted by Neurips 2024🎉 Many thanks to Jinkun and Jiangmiao!
+- *2024.09*: &nbsp;[MGF](https://github.com/mulplue/MGF) is accepted by Neurips 2024 🎉 Many thanks to Jinkun and Jiangmiao!
 - *2024.07*: &nbsp;We released [GRUtopia](https://github.com/OpenRobotLab/GRUtopia)(aka. 桃源 in Chinese), the first simulated interactive 3D society designed for various robots.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -58,7 +58,7 @@ Hanqing Wang$\ast$, **Jiahe Chen**$\ast$, Wensi Huang$\ast$, Qingwei Ben$\ast$, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/teaser/mgf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/teaser/mgf.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction](https://arxiv.org/abs/2402.12238) \\
 **Jiahe Chen**$\ast$, Jinkun Cao$\ast$, Dahua Lin, Kris Kitani, Jiangmiao Pang$\dagger$ \\
